@@ -1,2 +1,0 @@
-### KSCSwitcher
-Switches your KSC
