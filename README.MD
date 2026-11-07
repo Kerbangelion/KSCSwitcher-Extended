@@ -1,4 +1,5 @@
 ### KSCSwitcher Extended
+THIS MOD DOES NOT REPLACE KSCSWITCHER! IT WORKS ON TOP OF IT!
 
 Forked from [KSCSwitcher](https://github.com/KSP-RO/KSCSwitcher/)
 
